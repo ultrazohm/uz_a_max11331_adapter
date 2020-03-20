@@ -1,0 +1,5 @@
+Change Differential Pair Negative Net Name : Old Net Name=ADC_2_P2 New Net Name=ADC_2_N2
+Added Class: Name=CarrierBoard_Interface
+Added Class: Name=Principal
+Added Room: Name=CarrierBoard_Interface
+Added Room: Name=Principal

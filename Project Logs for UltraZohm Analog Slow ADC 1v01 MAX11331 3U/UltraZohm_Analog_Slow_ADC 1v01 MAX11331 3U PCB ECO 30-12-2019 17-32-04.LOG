@@ -1,0 +1,16 @@
+Change Differential Pair Negative Net Name : Old Net Name=ADC_2_P2 New Net Name=ADC_2_N2
+Added Class: Name=Principal
+Added Class: Name=ADC1_Nets
+Added Class: Name=ADC2_Nets
+Added Class: Name=ADC3_Nets
+Added Class: Name=ADC4_Nets
+Added Class: Name=ADC5_Nets
+Added Class: Name=ADC6_Nets
+Added Class: Name=ADC7_Nets
+Added Class: Name=ADC8_Nets
+Added Class: Name=ADC9_Nets
+Added Class: Name=ADC10_Nets
+Added Class: Name=ADC11_Nets
+Added Class: Name=ADC12_Nets
+Change Room Name: Old Name=Power Supply New Name=Principal
+Change Room Scope: Old Scope=InComponentClass('Power Supply') New Scope=InComponentClass('Principal')

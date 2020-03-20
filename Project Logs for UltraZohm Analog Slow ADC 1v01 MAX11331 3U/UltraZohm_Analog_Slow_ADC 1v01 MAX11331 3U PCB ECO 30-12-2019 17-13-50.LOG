@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=J1_Nets Member=ADC_2_N2
+Removed Member From Class: ClassName=J1_Nets Member=ADC_2_P2
+Change Net Name : Old Net Name=ADC_2_N2 New Net Name=ADC_2_N1
+Change Net Name : Old Net Name=ADC_2_P2 New Net Name=ADC_2_P1
+Added Member To Class: ClassName=J1_Nets Member=Element[1]: ADC_2_N
+Added Member To Class: ClassName=J1_Nets Member=Element[1]: ADC_2_P

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=+3.3V_A Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=+3.3V_A Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=+3.3V_A Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=+3.3V_A Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=VIN Pin=L1-1
+Removed Pin From Net: NetName=+3.3V_A Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=+3.3V_A Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Member From Class: ClassName=Power Supply Member=C18
+Removed Member From Class: ClassName=Power Supply Member=C19
+Removed Member From Class: ClassName=Power Supply Member=C20
+Removed Member From Class: ClassName=Power Supply Member=C21
+Removed Member From Class: ClassName=Power Supply Member=C22
+Removed Member From Class: ClassName=Power Supply Member=C23
+Removed Member From Class: ClassName=Power Supply Member=C24
+Removed Member From Class: ClassName=Power Supply Member=C25
+Removed Member From Class: ClassName=Power Supply Member=L1
+Removed Member From Class: ClassName=Power Supply Member=R1
+Removed Member From Class: ClassName=Power Supply Member=R2
+Removed Member From Class: ClassName=Power Supply Member=R5
+Removed Member From Class: ClassName=Power Supply Member=U2

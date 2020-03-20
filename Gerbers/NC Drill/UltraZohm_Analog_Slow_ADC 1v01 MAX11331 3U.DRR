@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.PcbDoc   07/01/2020  2:57:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             104       PTH        363.94mm (14.33inch)
+T2      0.3mm (12mil)                                             Round             264       PTH        781.97mm (30.79inch)
+T3      0.5mm (20mil)                                             Round             2         PTH        11.07mm (0.44inch)
+T4      0.56mm (22mil)                                            Round             300       PTH        526.49mm (20.73inch)
+T5      0.7mm (28mil)                                             Round             37        PTH        363.01mm (14.29inch)
+T6      0.8mm (31mil)                                             Round             3         PTH        5.08mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              710
+
+Total Processing Time (hh:mm:ss) : 00:00:00

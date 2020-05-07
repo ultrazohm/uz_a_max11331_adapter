@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Analog_Adapter_MAX11331_6U_1v02
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=14
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -95,7 +95,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=16
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -106,40 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WSKYJPVD
 
 [Document5]
-DocumentPath=Analog Interface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WKYCIQLX
-
-[Document6]
-DocumentPath=Gerbers\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=Analog_Adapter_MAX11331_6U.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=Altium Library\Componentes_SOC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCYCUIWL
 
-[Document9]
+[Document7]
 DocumentPath=Altium Library\Footprints_SOC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,147 +154,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PWDGDKBY
 
-[GeneratedDocument1]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.1
+[Document8]
+DocumentPath=LevelShift.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XAVWCMZU
 
-[GeneratedDocument2]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.2
+[Document9]
+DocumentPath=SPI_LVDS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.3
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.4
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.5
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.G3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.G4
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GML
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.REP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Gerbers\Gerber\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Gerbers\NC Drill\UltraZohm_Analog_Slow_ADC 1v01 MAX11331 3U.TXT
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IZEYLCPX
 
 [Parameter1]
 Name=ProjectRevision
@@ -381,7 +241,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Analog_Adapter_MAX11331_6U_1v02
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1251,11 +1111,11 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=0
 Type13=0
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
@@ -1367,8 +1227,8 @@ Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L2=NNNNNNNWWWNWNWNWN
+L3=NNEENEEEENEWNENWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
@@ -1379,8 +1239,8 @@ L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
-L15=NNENNNNEEENWNENWW
+L14=NWEENEEEENEWNENWW
+L15=NNNNNNNEEENWNNNWW
 L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
 

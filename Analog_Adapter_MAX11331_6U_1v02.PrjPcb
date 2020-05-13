@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Analog_Adapter_MAX11331_6U_1v02
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WSKYJPVD
 
 [Document5]
-DocumentPath=Analog_Adapter_MAX11331_6U.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=Altium Library\Componentes_SOC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCYCUIWL
 
-[Document7]
+[Document6]
 DocumentPath=Altium Library\Footprints_SOC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,24 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWDGDKBY
 
-[Document8]
-DocumentPath=LevelShift.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XAVWCMZU
-
-[Document9]
+[Document7]
 DocumentPath=SPI_LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IZEYLCPX
 
+[Document8]
+DocumentPath=Abalog_Adapter_MAX11331.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KLNRQOYK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Analog_Adapter_MAX11331_6U_1v02\Design Rule Check - Abalog_Adapter_MAX11331.html
+DItemRevisionGUID=
+
 [Parameter1]
+Name=Date
+Value=05/2020
+
+[Parameter2]
+Name=Author
+Value=Thomas Kreppel
+
+[Parameter3]
+Name=ProjectName
+Value=Analog_Adapter_6U_MAX11331
+
+[Parameter4]
 Name=ProjectRevision
 Value=1v01
 
@@ -241,7 +240,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Analog_Adapter_MAX11331_6U_1v02
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1262,7 +1261,7 @@ CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
-NetClassManualEnabled=0
+NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]

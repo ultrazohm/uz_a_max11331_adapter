@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 02:02:23 On 01-Jun-20
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Analog_MAX11331_Adapter.PcbDoc]
+   Generated File[Analog_MAX11331_Adapter.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:02:30 On 01-Jun-20

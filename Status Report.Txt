@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 02:02:23 On 01-Jun-20
+Start Output Generation At 01:05:20 On 04-Jun-20
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [Analog_MAX11331_Adapter.PcbDoc]
-   Generated File[Analog_MAX11331_Adapter.step]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [UltraZohm_Analog_Adapter_MAX11331.PrjPcb]
+   Generated File[Bill of Materials-UltraZohm_Analog_Adapter_MAX11331.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 02:02:30 On 01-Jun-20
+Finished Output Generation At 01:05:23 On 04-Jun-20

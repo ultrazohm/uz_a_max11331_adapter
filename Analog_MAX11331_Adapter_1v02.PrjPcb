@@ -173,6 +173,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLNRQOYK
 
+[Document9]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=39368102-5039-4095-B7C0-E1A0BA1339A8
 Description=No_CLK_RTN
@@ -191,24 +208,148 @@ Variation9=Designator=R9|UniqueId=\QSHRTONP\YMFRJBOO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.1
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.2
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.3
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GML
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM_Analog_MAX11331_Adapter_1v02.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Design Rule Check - Analog_MAX11331_Adapter.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectRevision
-Value=1v01
+Name=Author
+Value=Thomas Kreppel
 
 [Parameter2]
-Name=ProjectName
-Value=Analog_MAX11331_Adapter
-
-[Parameter3]
 Name=Date
 Value=05/2020
 
+[Parameter3]
+Name=ProjectName
+Value=Analog_MAX11331_Adapter
+
 [Parameter4]
-Name=Author
-Value=Thomas Kreppel
+Name=ProjectRevision
+Value=1v01
 
 [Configuration1]
 Name=Default Configuration
@@ -916,6 +1057,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

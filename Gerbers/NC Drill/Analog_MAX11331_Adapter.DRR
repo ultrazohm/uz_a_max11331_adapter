@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Analog_MAX11331_Adapter.PcbDoc   05.06.2020  15:08:24
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Analog_MAX11331_Adapter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             85        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             108       PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Round             48        PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T6      1.016mm (40mil)                                           Round             12        PTH        0.00mm (0.00inch)
+T7      1.6mm (63mil)                                             Round             27        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              290
+
+Total Processing Time (hh:mm:ss) : 00:00:00

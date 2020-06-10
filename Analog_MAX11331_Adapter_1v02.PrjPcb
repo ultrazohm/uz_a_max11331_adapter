@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Analog_MAX11331_Adapter_1v02
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FEPNQPSU
 
 [Document3]
-DocumentPath=Output.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=Power supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSKYJPVD
 
-[Document5]
+[Document4]
 DocumentPath=Altium Library\Componentes_SOC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCYCUIWL
 
-[Document6]
+[Document5]
 DocumentPath=Altium Library\Footprints_SOC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWDGDKBY
 
-[Document7]
+[Document6]
 DocumentPath=SPI_LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IZEYLCPX
 
-[Document8]
+[Document7]
 DocumentPath=Analog_MAX11331_Adapter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,8 +156,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLNRQOYK
 
-[Document9]
-DocumentPath=CAMtastic1.Cam
+[Document8]
+DocumentPath=OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -195,7 +178,7 @@ UniqueID=39368102-5039-4095-B7C0-E1A0BA1339A8
 Description=No_CLK_RTN
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
+VariationCount=38
 Variation1=Designator=C5A|UniqueId=\BZTHBBQE\LEFDXWUN|Kind=1|AlternatePart= 
 Variation2=Designator=U4A|UniqueId=\BZTHBBQE\GBWICCUB|Kind=1|AlternatePart= 
 Variation3=Designator=C5B|UniqueId=\CFIJVECB\LEFDXWUN|Kind=1|AlternatePart= 
@@ -205,6 +188,35 @@ Variation6=Designator=U4C|UniqueId=\CSJDPUQF\GBWICCUB|Kind=1|AlternatePart=
 Variation7=Designator=R8|UniqueId=\QSHRTONP\JDOVRXPW|Kind=1|AlternatePart= 
 Variation8=Designator=R14|UniqueId=\QSHRTONP\XTQFCNBR|Kind=1|AlternatePart= 
 Variation9=Designator=R9|UniqueId=\QSHRTONP\YMFRJBOO|Kind=1|AlternatePart= 
+Variation10=Designator=R1|UniqueId=\QSHRTONP\EVFDEGRI|Kind=1|AlternatePart= 
+Variation11=Designator=R3|UniqueId=\QSHRTONP\FIVJMNDN|Kind=1|AlternatePart= 
+Variation12=Designator=TP1|UniqueId=\OTOOLPOM\IHVXTIXJ|Kind=1|AlternatePart= 
+Variation13=Designator=TP4B|UniqueId=\CFIJVECB\KYBDDZSK|Kind=1|AlternatePart= 
+Variation14=Designator=TP7C|UniqueId=\CSJDPUQF\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation15=Designator=TP4C|UniqueId=\CSJDPUQF\KYBDDZSK|Kind=1|AlternatePart= 
+Variation16=Designator=TP9C|UniqueId=\CSJDPUQF\MTXUTKXP|Kind=1|AlternatePart= 
+Variation17=Designator=TP9B|UniqueId=\CFIJVECB\MTXUTKXP|Kind=1|AlternatePart= 
+Variation18=Designator=TP5B|UniqueId=\CFIJVECB\FDHPJQWS|Kind=1|AlternatePart= 
+Variation19=Designator=TP5C|UniqueId=\CSJDPUQF\FDHPJQWS|Kind=1|AlternatePart= 
+Variation20=Designator=TP8C|UniqueId=\CSJDPUQF\IKZBEWLT|Kind=1|AlternatePart= 
+Variation21=Designator=TP8B|UniqueId=\CFIJVECB\IKZBEWLT|Kind=1|AlternatePart= 
+Variation22=Designator=TP4A|UniqueId=\BZTHBBQE\KYBDDZSK|Kind=1|AlternatePart= 
+Variation23=Designator=TP6C|UniqueId=\CSJDPUQF\MWJMZPWW|Kind=1|AlternatePart= 
+Variation24=Designator=TP11B|UniqueId=\CFIJVECB\OHOGEZCA|Kind=1|AlternatePart= 
+Variation25=Designator=TP3|UniqueId=\OTOOLPOM\VTQGZGFB|Kind=1|AlternatePart= 
+Variation26=Designator=TP8A|UniqueId=\BZTHBBQE\IKZBEWLT|Kind=1|AlternatePart= 
+Variation27=Designator=TP10A|UniqueId=\BZTHBBQE\HSASOUFH|Kind=1|AlternatePart= 
+Variation28=Designator=TP10C|UniqueId=\CSJDPUQF\HSASOUFH|Kind=1|AlternatePart= 
+Variation29=Designator=TP11A|UniqueId=\BZTHBBQE\OHOGEZCA|Kind=1|AlternatePart= 
+Variation30=Designator=TP10B|UniqueId=\CFIJVECB\HSASOUFH|Kind=1|AlternatePart= 
+Variation31=Designator=TP2|UniqueId=\OTOOLPOM\ADNVTIUL|Kind=1|AlternatePart= 
+Variation32=Designator=TP9A|UniqueId=\BZTHBBQE\MTXUTKXP|Kind=1|AlternatePart= 
+Variation33=Designator=TP6B|UniqueId=\CFIJVECB\MWJMZPWW|Kind=1|AlternatePart= 
+Variation34=Designator=TP11C|UniqueId=\CSJDPUQF\OHOGEZCA|Kind=1|AlternatePart= 
+Variation35=Designator=TP7B|UniqueId=\CFIJVECB\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation36=Designator=TP5A|UniqueId=\BZTHBBQE\FDHPJQWS|Kind=1|AlternatePart= 
+Variation37=Designator=TP6A|UniqueId=\BZTHBBQE\MWJMZPWW|Kind=1|AlternatePart= 
+Variation38=Designator=TP7A|UniqueId=\BZTHBBQE\ZZMYPWQD|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -224,115 +236,187 @@ DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.EXTREP
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G1
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G2
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBL
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBO
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBP
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.G2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBS
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.G2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GKO
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM1
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM2
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM3
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM5
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM13
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM15
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM16
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GML
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPB
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPT
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTL
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTO
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTP
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTS
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.LDP
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.REP
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.RUL
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GML
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.TXT
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM_Analog_MAX11331_Adapter_1v02.xlsx
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Gerbers\Gerber\Analog_MAX11331_Adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Gerbers\NC Drill\Analog_MAX11331_Adapter.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM_Analog_MAX11331_Adapter_1v02.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument49]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Design Rule Check - Analog_MAX11331_Adapter.html
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_Analog_MAX11331_Adapter_1v02_1v01.txt
 DItemRevisionGUID=
 
 [Parameter1]
@@ -398,7 +482,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Analog_MAX11331_Adapter_1v02
 
 [OutputGroup1]
 Name=Netlist Outputs

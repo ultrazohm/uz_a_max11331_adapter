@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Analog_MAX11331_Adapter.PcbDoc]
+   Generated File[Analog_MAX11331_Adapter.TXT]
+   Generated File[Analog_MAX11331_Adapter.LDP]
+   Generated File[Analog_MAX11331_Adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:01:25 On 10.06.2020

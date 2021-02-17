@@ -237,150 +237,82 @@ Variation38=Designator=TP7A|UniqueId=\BZTHBBQE\ZZMYPWQD|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\Analog_MAX11331_Adapter.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\Analog_MAX11331_Adapter.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM\BOM_UltraZohm_Analog_Adapter_MAX11331_1v01.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Design Rule Check - UltraZohm_Analog_Adapter_MAX11331.html
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_Analog_MAX11331_Adapter_1v02_1v01.txt
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G1
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G2
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.REP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.TXT
 DItemRevisionGUID=
 
@@ -1106,36 +1038,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

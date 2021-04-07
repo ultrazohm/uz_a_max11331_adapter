@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [UltraZohm_Analog_Adapter_MAX11331.PcbDoc]
-   Generated File[UltraZohm_Analog_Adapter_MAX11331.TXT]
-   Generated File[UltraZohm_Analog_Adapter_MAX11331.LDP]
-   Generated File[UltraZohm_Analog_Adapter_MAX11331.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:11:59 On 07.04.2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [No_CLK_RTN] of BOM Document [UltraZohm_Analog_Adapter_MAX11331.BomDoc]
+   Generated File[BOM_UltraZohm_Analog_Adapter_MAX11331_2v01.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:24:39 On 16.06.2020
+Finished Output Generation At 13:12:07 On 07.04.2021

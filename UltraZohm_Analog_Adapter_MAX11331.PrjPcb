@@ -198,7 +198,7 @@ UniqueID=39368102-5039-4095-B7C0-E1A0BA1339A8
 Description=No_CLK_RTN
 AllowFabrication=0
 ParameterCount=0
-VariationCount=38
+VariationCount=39
 Variation1=Designator=C5A|UniqueId=\BZTHBBQE\LEFDXWUN|Kind=1|AlternatePart= 
 Variation2=Designator=U4A|UniqueId=\BZTHBBQE\GBWICCUB|Kind=1|AlternatePart= 
 Variation3=Designator=C5B|UniqueId=\CFIJVECB\LEFDXWUN|Kind=1|AlternatePart= 
@@ -237,14 +237,15 @@ Variation35=Designator=TP7B|UniqueId=\CFIJVECB\ZZMYPWQD|Kind=1|AlternatePart=
 Variation36=Designator=TP5A|UniqueId=\BZTHBBQE\FDHPJQWS|Kind=1|AlternatePart= 
 Variation37=Designator=TP6A|UniqueId=\BZTHBBQE\MWJMZPWW|Kind=1|AlternatePart= 
 Variation38=Designator=TP7A|UniqueId=\BZTHBBQE\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation39=Designator=P1|UniqueId=\HLAOSAIC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM\BOM_UltraZohm_Analog_Adapter_MAX11331_1v01.xlsx
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM\BOM_UltraZohm_Analog_Adapter_MAX11331_2v01.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_Analog_MAX11331_Adapter_1v02_1v01.txt
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
 DItemRevisionGUID=
 
 [GeneratedDocument3]
@@ -321,15 +322,15 @@ Value=Thomas Kreppel
 
 [Parameter2]
 Name=Date
-Value=05/2020
+Value=04/2021
 
 [Parameter3]
 Name=ProjectName
-Value=Analog_MAX11331_Adapter
+Value=UZ_A_MAX11331_Adapter
 
 [Parameter4]
 Name=ProjectRevision
-Value=1v01
+Value=2v01
 
 [Configuration1]
 Name=Default Configuration
@@ -965,6 +966,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

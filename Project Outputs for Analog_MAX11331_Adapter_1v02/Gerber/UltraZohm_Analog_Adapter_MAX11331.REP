@@ -9,7 +9,7 @@ Generating : Board Outline
 
 
 Used DCodes :
-    D12
+    D14
 *************************************************************
 
 *************************************************************
@@ -34,7 +34,7 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D28
+    D35
 *************************************************************
 
 *************************************************************
@@ -49,7 +49,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D40
+    D47
     D51
     D52
     D53
@@ -92,6 +92,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Paste
+      File : UltraZohm_Analog_Adapter_MAX11331.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : UltraZohm_Analog_Adapter_MAX11331.GTO
 
@@ -119,43 +145,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : UltraZohm_Analog_Adapter_MAX11331.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D19
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : UltraZohm_Analog_Adapter_MAX11331.GBL
 
@@ -165,9 +154,9 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D19
+    D20
     D24
-    D28
+    D35
     D58
     D59
     D60
@@ -182,29 +171,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : UltraZohm_Analog_Adapter_MAX11331.GTP
+Generating : VCC
+      File : UltraZohm_Analog_Adapter_MAX11331.G2
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : VCC
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
+    D58
+    D60
+    D61
+    D63
+    D67
+    D68
 *************************************************************
 
 *************************************************************
@@ -228,19 +209,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : VCC
-      File : UltraZohm_Analog_Adapter_MAX11331.G2
+Generating : Top Layer
+      File : UltraZohm_Analog_Adapter_MAX11331.GTL
 
-    Adding Layer      : VCC
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D20
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
     D58
+    D59
+    D60
     D61
     D62
     D63
+    D64
+    D65
+    D66
     D67
     D68
 *************************************************************

@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=OutputJob.OutJob
 Description=
-TargetOutputMedium=BOM
+TargetOutputMedium=Pick_and_Place
 VariantName=No_CLK_RTN
 VariantScope=1
 CurrentConfigurationName=
@@ -175,7 +175,7 @@ OutputName6=Bill of Materials
 OutputCategory6=Report
 OutputDocumentPath6=UltraZohm_Analog_Adapter_MAX11331.BomDoc
 OutputVariantName6=Standard
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -191,7 +191,7 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=ColumnNameFormat
 Configuration6_Item1=CaptionAsName
 Configuration6_Name2=General
-Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration6_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1602|FormHeight=1029|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration6_Name3=GroupOrder
 Configuration6_Item3=Comment=True|MPN=True|Footprint=True
 Configuration6_Name4=OutputConfigurationParameter1
@@ -199,9 +199,9 @@ Configuration6_Item4=??
 Configuration6_Name5=SortOrder
 Configuration6_Item5=Designator=Up
 Configuration6_Name6=VisibleOrder
-Configuration6_Item6=Comment=113|Designator=106|Value=82|Description=76|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier Unit Price 1=100|Quantity=62|Supplier Subtotal 1=100
+Configuration6_Item6=Comment=113|Designator=106|Value=82|Description=76|Package=100|Tolerance=100|Voltage=100|Dielectricum=100|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier Unit Price 1=100|Quantity=62|Supplier Subtotal 1=100
 Configuration6_Name7=VisibleOrder_Base
-Configuration6_Item7=Comment=113|Designator=106|Value=82|Description=76|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier Unit Price 1=100|Quantity=62|Supplier Subtotal 1=100
+Configuration6_Item7=Comment=113|Designator=106|Value=82|Description=76|Package=100|Tolerance=100|Voltage=100|Dielectricum=100|Footprint=76|Supplier 1=73|Supplier Part Number 1=94|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier Unit Price 1=100|Quantity=62|Supplier Subtotal 1=100
 Configuration6_Name8=VisibleOrder_Consolidated
 Configuration6_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@No_CLK_RTN=100|Price@No_CLK_RTN=100
 Configuration6_Name9=VisibleOrder_Flat
@@ -268,7 +268,7 @@ OutputName10=Generates pick and place files
 OutputCategory10=Assembly
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=0
+OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=0

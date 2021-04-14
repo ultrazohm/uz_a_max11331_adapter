@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 13:29:29 On 08.04.2021
+Start Output Generation At 17:31:25 On 14.04.2021
 
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [No_CLK_RTN] of PCB Document [UltraZohm_Analog_Adapter_MAX11331.PcbDoc]
+From  : Variant [SMD_Assembly] of PCB Document [UltraZohm_Analog_Adapter_MAX11331.PcbDoc]
    Generated File[PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:29:30 On 08.04.2021
+Finished Output Generation At 17:31:26 On 14.04.2021

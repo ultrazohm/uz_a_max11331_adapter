@@ -1,13 +1,13 @@
 Altium Designer Pick and Place Locations
-C:\Users\hm-kreppel\Documents\Altium Projects\ultrazohm_analog_max11331_main_1vxx\Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
+C:\Users\thoma\Documents\Altium\UltraZOhm\UZ_A_MAX1131_Adapter\Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       08.04.21
-Time:       13:29
-Revision:   501d7f3bbd860ed450390951e11b9b241bbcb208
-Variant:    No_CLK_RTN
+Date:       14.04.21
+Time:       17:31
+Revision:   b8ddb78a88b80290a5f2689edd1d7c6b344aaf5e
+Variant:    SMD_Assembly
 Units used: mm
 
 Designator  Footprint                    Center-X(mm) Center-Y(mm) Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) Rotation Layer       Comment                      
@@ -18,7 +18,7 @@ U10         TSOP65P640X120-16N           31.6000      -21.5000     31.6000   -21
 U9          TSOP65P640X120-16N           31.6000      -13.2250     31.6000   -13.2250  28.6500   -10.9500  0        TopLayer    SN74AVC4T774                 
 U8          TSOP65P640X120-16N           31.6000      -4.9000      31.6000   -4.9000   28.6500   -2.6250   0        TopLayer    SN74AVC4T774                 
 U7          TSOP65P640X120-16N           31.6000      3.4000       31.6000   3.4000    28.6500   5.6750    0        TopLayer    SN74AVC4T774                 
-U6          SOT-23-5                     32.8000      23.6000      32.8000   23.6000   33.7500   24.9000   90       TopLayer    LDO                          
+U6          SOT230P700X170-4N            33.5280      22.3520      33.5280   22.3520   35.8280   25.2520   270      TopLayer    "1.8V LDO"                   
 U5          SOIC127P600X170_HS-9N        34.3000      33.9350      34.3000   33.9350   31.6000   35.8400   360      TopLayer    "buck converter"             
 U3C         TSOP65P640X120-16N           53.7989      -29.9025     53.7989   -29.9025  56.7489   -32.1775  180      TopLayer    "Quad LVDS reciever"         
 U3B         TSOP65P640X120-16N           53.8045      -8.4601      53.8045   -8.4601   56.7545   -10.7351  180      TopLayer    "Quad LVDS reciever"         
@@ -38,7 +38,7 @@ R34         RES_0603                     26.2000      -19.5000     25.4000   -19
 R33         RES_0603                     26.2000      -17.8000     25.4000   -17.8000  25.4000   -17.8000  90       TopLayer    10k                          
 R32         RES_0603                     26.2000      -16.1000     25.4000   -16.1000  25.4000   -16.1000  90       TopLayer    10k                          
 R31         RES_0603                     26.2000      -14.4750     25.4000   -14.4750  25.4000   -14.4750  90       TopLayer    10k                          
-R30         RES_0603                     53.8700      30.5270      53.8700   31.3270   53.8700   31.3270   360      TopLayer    330                          
+R30         RES_0603                     53.8700      30.5270      53.8700   29.7270   53.8700   29.7270   180      TopLayer    220                          
 R29         RES_0603                     38.1890      30.2260      37.3890   30.2260   37.3890   30.2260   90       TopLayer    100k                         
 R28         RES_0603                     30.5000      30.2000      29.7000   30.2000   29.7000   30.2000   90       TopLayer    10k                          
 R27         RES_0603                     36.6650      42.7990      35.8650   42.7990   35.8650   42.7990   90       TopLayer    115k                         
@@ -83,16 +83,14 @@ C21         CAP_0603                     36.5000      14.2000      36.5000   13.
 C20         CAP_0603                     32.8810      -17.8000     33.5810   -17.8000  33.5810   -17.8000  270      TopLayer    100nF                        
 C19         CAP_0603                     32.8810      -9.5000      33.5810   -9.5000   33.5810   -9.5000   270      TopLayer    100nF                        
 C18         CAP_0603                     32.8810      -1.2000      33.5810   -1.2000   33.5810   -1.2000   270      TopLayer    100nF                        
-C17         CAP_0603                     33.0000      20.7000      33.7000   20.7000   33.7000   20.7000   270      TopLayer    1µF                          
-C16         CAP_0603                     33.0000      26.5000      33.7000   26.5000   33.7000   26.5000   270      TopLayer    1µF                          
+C17         CAP_0603                     32.8810      17.1450      33.5810   17.1450   33.5810   17.1450   270      TopLayer    1µF                          
+C16         CAP_0603                     28.8290      24.8300      28.8290   25.5300   28.8290   25.5300   360      TopLayer    1µF                          
 C15         CAP_0603                     40.7670      32.5740      40.7670   33.2740   40.7670   33.2740   0        TopLayer    91pF                         
 C14         CAP_0603                     29.5600      32.4000      29.5600   33.1000   29.5600   33.1000   0        TopLayer    1µF                          
 C13         CAP_0603                     29.5600      35.1700      29.5600   34.4700   29.5600   34.4700   180      TopLayer    100nF                        
 C12         RES_1206                     26.0000      35.7700      26.0000   34.2700   26.0000   34.2700   0        TopLayer    10µF                         
 C11         RES_1206                     29.1000      38.9000      29.1000   40.4000   29.1000   40.4000   180      TopLayer    10µF                         
 C10         CAP_0603                     31.4000      38.3000      31.4000   39.0000   31.4000   39.0000   0        TopLayer    100nF                        
-C9          WCAP-ATG8_6.3X11             21.0000      36.9000      21.0000   36.9000   21.0000   38.1500   270      TopLayer    68µF                         
-C8          WCAP-ATG8_6.3X11             24.2000      43.8000      24.2000   43.8000   22.9500   43.8000   360      TopLayer    68µF                         
 C7          CAP_0603                     33.8440      42.7990      33.1440   42.7990   33.1440   42.7990   90       TopLayer    1.2nF                        
 C6          CAP_0603                     39.0000      35.4000      39.0000   36.1000   39.0000   36.1000   0        TopLayer    2.2nF                        
 C4C         CAP_0603                     69.2276      -43.4232     68.5276   -43.4232  68.5276   -43.4232  90       TopLayer    100nF                        

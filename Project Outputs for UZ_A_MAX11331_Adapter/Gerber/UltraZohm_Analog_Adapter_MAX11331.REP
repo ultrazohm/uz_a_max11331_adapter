@@ -2,100 +2,18 @@
 FileName = UltraZohm_Analog_Adapter_MAX11331.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : UltraZohm_Analog_Adapter_MAX11331.GTL
+Generating : Bottom Paste
+      File : UltraZohm_Analog_Adapter_MAX11331.GBP
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D27
-    D28
-    D29
-    D30
     D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : UltraZohm_Analog_Adapter_MAX11331.G1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D61
-    D62
-    D63
-    D64
-    D65
-    D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : VCC
-      File : UltraZohm_Analog_Adapter_MAX11331.G2
-
-    Adding Layer      : VCC
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D61
-    D63
-    D64
-    D65
-    D68
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : UltraZohm_Analog_Adapter_MAX11331.GM1
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : UltraZohm_Analog_Adapter_MAX11331.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D71
 *************************************************************
 
 *************************************************************
@@ -125,30 +43,52 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : UltraZohm_Analog_Adapter_MAX11331.GTO
+Generating : Board Outline
+      File : UltraZohm_Analog_Adapter_MAX11331.GM1
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D10
-    D11
     D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : UltraZohm_Analog_Adapter_MAX11331.G2
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D63
+    D64
+    D65
+    D68
+    D70
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : UltraZohm_Analog_Adapter_MAX11331.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+    D64
+    D65
+    D68
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -176,6 +116,33 @@ Used DCodes :
     D37
     D38
     D39
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UltraZohm_Analog_Adapter_MAX11331.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -213,6 +180,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : UltraZohm_Analog_Adapter_MAX11331.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D71
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : UltraZohm_Analog_Adapter_MAX11331.GBS
 
@@ -234,17 +212,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : UltraZohm_Analog_Adapter_MAX11331.GBP
+Generating : Top Layer
+      File : UltraZohm_Analog_Adapter_MAX11331.GTL
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D19
+    D27
+    D28
+    D29
+    D30
     D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
 *************************************************************
 

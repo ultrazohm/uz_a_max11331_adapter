@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
@@ -28,8 +28,8 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Analog_MAX11331_Adapter_1v02
-LogFolderPath=
+OutputPath=Project Outputs for UZ_A_MAX11331_Adapter
+LogFolderPath=Project Logs for UZ_A_MAX11331_Adapter
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
@@ -250,7 +250,7 @@ DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\BOM\BOM_UltraZohm_
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Design Rule Check - UltraZohm_Analog_Adapter_MAX11331.html
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\BOM\BOM_UltraZohm_Analog_Adapter_MAX11331_2v01.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
@@ -258,88 +258,164 @@ DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Pick Place\PickPla
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.DRR
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.EXTREP
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\ExportSTEP\UltraZohm_Analog_Adapter_MAX11331(SMD_Assembly).step
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G1
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G2
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBL
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBO
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBP
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBS
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.G1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GM1
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.G2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTL
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.G2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTO
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTP
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTS
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.LDP
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.REP
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.RUL
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\Gerber\UltraZohm_Analog_Adapter_MAX11331.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Analog_MAX11331_Adapter_1v02\NC Drill\UltraZohm_Analog_Adapter_MAX11331.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument39]
+DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.TXT
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Author
-Value=Thomas Kreppel
+Name=ProjectRevision
+Value=2v01
 
 [Parameter2]
-Name=Date
-Value=04/2021
-
-[Parameter3]
 Name=ProjectName
 Value=UZ_A_MAX11331_Adapter
 
+[Parameter3]
+Name=Date
+Value=04/2021
+
 [Parameter4]
-Name=ProjectRevision
-Value=2v01
+Name=Author
+Value=Thomas Kreppel
 
 [Configuration1]
 Name=Default Configuration
@@ -388,7 +464,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Analog_MAX11331_Adapter_1v02
+OutputDir=Project Outputs for UZ_A_MAX11331_Adapter
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -400,106 +476,11 @@ OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=PADSNetlist
-OutputName2=PADS ASCII Netlist
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=CadnetixNetlist
-OutputName3=Cadnetix Netlist
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-OutputType4=CalayNetlist
-OutputName4=Calay Netlist
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-OutputType5=EDIF
-OutputName5=EDIF for PCB
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-OutputType6=EESofNetlist
-OutputName6=EESof Netlist
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-OutputType7=IntergraphNetlist
-OutputName7=Intergraph Netlist
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=MentorBoardStationNetlist
-OutputName8=Mentor BoardStation Netlist
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=MultiWire
-OutputName9=MultiWire
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=OrCadPCB2Netlist
-OutputName10=Orcad/PCB2 Netlist
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Pcad
-OutputName11=Pcad for PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=ProtelNetlist
-OutputName14=Protel
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=TangoNetlist
-OutputName18=Tango Netlist
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=TelesisNetlist
-OutputName19=Telesis Netlist
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=WireListNetlist
-OutputName20=WireList Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung C48x Series (USB001)
+TargetPrinter=PDFsam Enhanced 7
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -595,24 +576,12 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PDF3D
-OutputName9=PDF3D
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PCBDrawing
-OutputName10=Draftsman
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -992,91 +961,36 @@ Name=Export Outputs
 Description=
 TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AutoCAD dwg/dxf PCB
-OutputName1=AutoCAD dwg/dxf File PCB
+OutputType1=ExportSTEP
+OutputName1=Export STEP
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf Schematic
-OutputName2=AutoCAD dwg/dxf File Schematic
+OutputType2=ExportPARASOLID
+OutputName2=Export PARASOLID
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ExportIDF
-OutputName3=Export IDF
+OutputType3=ExportVRML
+OutputName3=Export VRML
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=ExportSTEP
-OutputName4=Export STEP
+OutputType4=Save As/Export PCB
+OutputName4=Save As/Export PCB
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-OutputType5=ExportPARASOLID
-OutputName5=Export PARASOLID
+OutputType5=Save As/Export Schematic
+OutputName5=Save As/Export Schematic
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=ExportVRML
-OutputName6=Export VRML
+OutputType6=Specctra Design PCB
+OutputName6=Specctra Design PCB
 OutputDocumentPath6=
-OutputVariantName6=[No Variations]
+OutputVariantName6=
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

@@ -23,11 +23,14 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs for UZ_A_MAX11331_Adapter
 LogFolderPath=Project Logs for UZ_A_MAX11331_Adapter
 ManagedProjectGUID=
@@ -195,43 +198,37 @@ UniqueID=39368102-5039-4095-B7C0-E1A0BA1339A8
 Description=SMD_Assembly
 AllowFabrication=1
 ParameterCount=0
-VariationCount=36
-Variation1=Designator=C5A|UniqueId=\BZTHBBQE\LEFDXWUN|Kind=1|AlternatePart= 
-Variation2=Designator=C5B|UniqueId=\CFIJVECB\LEFDXWUN|Kind=1|AlternatePart= 
-Variation3=Designator=C5C|UniqueId=\CSJDPUQF\LEFDXWUN|Kind=1|AlternatePart= 
-Variation4=Designator=R8|UniqueId=\QSHRTONP\JDOVRXPW|Kind=1|AlternatePart= 
-Variation5=Designator=R14|UniqueId=\QSHRTONP\XTQFCNBR|Kind=1|AlternatePart= 
-Variation6=Designator=R9|UniqueId=\QSHRTONP\YMFRJBOO|Kind=1|AlternatePart= 
-Variation7=Designator=R1|UniqueId=\QSHRTONP\EVFDEGRI|Kind=1|AlternatePart= 
-Variation8=Designator=R3|UniqueId=\QSHRTONP\FIVJMNDN|Kind=1|AlternatePart= 
-Variation9=Designator=TP1|UniqueId=\OTOOLPOM\IHVXTIXJ|Kind=1|AlternatePart= 
-Variation10=Designator=TP4B|UniqueId=\CFIJVECB\KYBDDZSK|Kind=1|AlternatePart= 
-Variation11=Designator=TP7C|UniqueId=\CSJDPUQF\ZZMYPWQD|Kind=1|AlternatePart= 
-Variation12=Designator=TP4C|UniqueId=\CSJDPUQF\KYBDDZSK|Kind=1|AlternatePart= 
-Variation13=Designator=TP9C|UniqueId=\CSJDPUQF\MTXUTKXP|Kind=1|AlternatePart= 
-Variation14=Designator=TP9B|UniqueId=\CFIJVECB\MTXUTKXP|Kind=1|AlternatePart= 
-Variation15=Designator=TP5B|UniqueId=\CFIJVECB\FDHPJQWS|Kind=1|AlternatePart= 
-Variation16=Designator=TP5C|UniqueId=\CSJDPUQF\FDHPJQWS|Kind=1|AlternatePart= 
-Variation17=Designator=TP8C|UniqueId=\CSJDPUQF\IKZBEWLT|Kind=1|AlternatePart= 
-Variation18=Designator=TP8B|UniqueId=\CFIJVECB\IKZBEWLT|Kind=1|AlternatePart= 
-Variation19=Designator=TP4A|UniqueId=\BZTHBBQE\KYBDDZSK|Kind=1|AlternatePart= 
-Variation20=Designator=TP6C|UniqueId=\CSJDPUQF\MWJMZPWW|Kind=1|AlternatePart= 
-Variation21=Designator=TP11B|UniqueId=\CFIJVECB\OHOGEZCA|Kind=1|AlternatePart= 
-Variation22=Designator=TP3|UniqueId=\OTOOLPOM\VTQGZGFB|Kind=1|AlternatePart= 
-Variation23=Designator=TP8A|UniqueId=\BZTHBBQE\IKZBEWLT|Kind=1|AlternatePart= 
-Variation24=Designator=TP10A|UniqueId=\BZTHBBQE\HSASOUFH|Kind=1|AlternatePart= 
-Variation25=Designator=TP10C|UniqueId=\CSJDPUQF\HSASOUFH|Kind=1|AlternatePart= 
-Variation26=Designator=TP11A|UniqueId=\BZTHBBQE\OHOGEZCA|Kind=1|AlternatePart= 
-Variation27=Designator=TP10B|UniqueId=\CFIJVECB\HSASOUFH|Kind=1|AlternatePart= 
-Variation28=Designator=TP2|UniqueId=\OTOOLPOM\ADNVTIUL|Kind=1|AlternatePart= 
-Variation29=Designator=TP9A|UniqueId=\BZTHBBQE\MTXUTKXP|Kind=1|AlternatePart= 
-Variation30=Designator=TP6B|UniqueId=\CFIJVECB\MWJMZPWW|Kind=1|AlternatePart= 
-Variation31=Designator=TP11C|UniqueId=\CSJDPUQF\OHOGEZCA|Kind=1|AlternatePart= 
-Variation32=Designator=TP7B|UniqueId=\CFIJVECB\ZZMYPWQD|Kind=1|AlternatePart= 
-Variation33=Designator=TP5A|UniqueId=\BZTHBBQE\FDHPJQWS|Kind=1|AlternatePart= 
-Variation34=Designator=TP6A|UniqueId=\BZTHBBQE\MWJMZPWW|Kind=1|AlternatePart= 
-Variation35=Designator=TP7A|UniqueId=\BZTHBBQE\ZZMYPWQD|Kind=1|AlternatePart= 
-Variation36=Designator=P1|UniqueId=\HLAOSAIC|Kind=1|AlternatePart= 
+VariationCount=30
+Variation1=Designator=R1|UniqueId=\QSHRTONP\EVFDEGRI|Kind=1|AlternatePart= 
+Variation2=Designator=R3|UniqueId=\QSHRTONP\FIVJMNDN|Kind=1|AlternatePart= 
+Variation3=Designator=TP1|UniqueId=\OTOOLPOM\IHVXTIXJ|Kind=1|AlternatePart= 
+Variation4=Designator=TP4B|UniqueId=\CFIJVECB\KYBDDZSK|Kind=1|AlternatePart= 
+Variation5=Designator=TP7C|UniqueId=\CSJDPUQF\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation6=Designator=TP4C|UniqueId=\CSJDPUQF\KYBDDZSK|Kind=1|AlternatePart= 
+Variation7=Designator=TP9C|UniqueId=\CSJDPUQF\MTXUTKXP|Kind=1|AlternatePart= 
+Variation8=Designator=TP9B|UniqueId=\CFIJVECB\MTXUTKXP|Kind=1|AlternatePart= 
+Variation9=Designator=TP5B|UniqueId=\CFIJVECB\FDHPJQWS|Kind=1|AlternatePart= 
+Variation10=Designator=TP5C|UniqueId=\CSJDPUQF\FDHPJQWS|Kind=1|AlternatePart= 
+Variation11=Designator=TP8C|UniqueId=\CSJDPUQF\IKZBEWLT|Kind=1|AlternatePart= 
+Variation12=Designator=TP8B|UniqueId=\CFIJVECB\IKZBEWLT|Kind=1|AlternatePart= 
+Variation13=Designator=TP4A|UniqueId=\BZTHBBQE\KYBDDZSK|Kind=1|AlternatePart= 
+Variation14=Designator=TP6C|UniqueId=\CSJDPUQF\MWJMZPWW|Kind=1|AlternatePart= 
+Variation15=Designator=TP11B|UniqueId=\CFIJVECB\OHOGEZCA|Kind=1|AlternatePart= 
+Variation16=Designator=TP3|UniqueId=\OTOOLPOM\VTQGZGFB|Kind=1|AlternatePart= 
+Variation17=Designator=TP8A|UniqueId=\BZTHBBQE\IKZBEWLT|Kind=1|AlternatePart= 
+Variation18=Designator=TP10A|UniqueId=\BZTHBBQE\HSASOUFH|Kind=1|AlternatePart= 
+Variation19=Designator=TP10C|UniqueId=\CSJDPUQF\HSASOUFH|Kind=1|AlternatePart= 
+Variation20=Designator=TP11A|UniqueId=\BZTHBBQE\OHOGEZCA|Kind=1|AlternatePart= 
+Variation21=Designator=TP10B|UniqueId=\CFIJVECB\HSASOUFH|Kind=1|AlternatePart= 
+Variation22=Designator=TP2|UniqueId=\OTOOLPOM\ADNVTIUL|Kind=1|AlternatePart= 
+Variation23=Designator=TP9A|UniqueId=\BZTHBBQE\MTXUTKXP|Kind=1|AlternatePart= 
+Variation24=Designator=TP6B|UniqueId=\CFIJVECB\MWJMZPWW|Kind=1|AlternatePart= 
+Variation25=Designator=TP11C|UniqueId=\CSJDPUQF\OHOGEZCA|Kind=1|AlternatePart= 
+Variation26=Designator=TP7B|UniqueId=\CFIJVECB\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation27=Designator=TP5A|UniqueId=\BZTHBBQE\FDHPJQWS|Kind=1|AlternatePart= 
+Variation28=Designator=TP6A|UniqueId=\BZTHBBQE\MWJMZPWW|Kind=1|AlternatePart= 
+Variation29=Designator=TP7A|UniqueId=\BZTHBBQE\ZZMYPWQD|Kind=1|AlternatePart= 
+Variation30=Designator=P1|UniqueId=\HLAOSAIC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -239,78 +236,74 @@ DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\BOM\BOM_UltraZohm_Analog_
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Design Rule Check - UltraZohm_Analog_Adapter_MAX11331.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.G1
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.G2
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Gerber\UltraZohm_Analog_Adapter_MAX11331.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\NC Drill\UltraZohm_Analog_Adapter_MAX11331.TXT
 DItemRevisionGUID=
 
@@ -484,42 +477,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -994,6 +957,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1321,6 +1314,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1388,12 +1383,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

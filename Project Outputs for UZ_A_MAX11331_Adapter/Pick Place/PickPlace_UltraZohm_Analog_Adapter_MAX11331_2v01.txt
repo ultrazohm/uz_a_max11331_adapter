@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-C:\Users\david\Documents\Altium_projects\UltraZohm\UZ_A_MAX11331_Adapter\Project Outputs for UZ_A_MAX11331_Adapter\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
+C:\Users\hm-kreppel\Documents\Altium Projects\uz_a_max11331_adapter\Project Outputs for UZ_A_MAX11331_Adapter\Pick Place\PickPlace_UltraZohm_Analog_Adapter_MAX11331_2v01.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       21/04/21
-Time:       13:40
+Date:       27.04.21
+Time:       14:27
 Revision:   fa2996f1e3faf38aa54968044dd00afff6443f76
 Variant:    SMD_Assembly
 Units used: mm
@@ -63,16 +63,19 @@ R18         RES_0603                      26.2000      -7.8000      25.4000   -7
 R17         RES_0603                      26.2000      -6.2260      25.4000   -6.2260   25.4000   -6.2260   90       TopLayer    10k                          
 R16         RES_0603                      26.2000      -2.9000      25.4000   -2.9000   25.4000   -2.9000   90       TopLayer    10k                          
 R15         RES_0603                      26.2000      -1.2000      25.4000   -1.2000   25.4000   -1.2000   90       TopLayer    10k                          
+R14         RES_0603                      6.6930       -8.8000      5.8930    -8.8000   5.8930    -8.8000   90       TopLayer    0R                           
 R13         RES_0603                      26.2000      0.5000       25.4000   0.5000    25.4000   0.5000    90       TopLayer    10k                          
 R12         RES_0603                      26.2000      2.1500       25.4000   2.1500    25.4000   2.1500    90       TopLayer    10k                          
 R11         RES_0603                      26.2000      5.3679       25.4000   5.3679    25.4000   5.3679    90       TopLayer    10k                          
 R10         RES_0603                      26.2000      7.1000       25.4000   7.1000    25.4000   7.1000    90       TopLayer    10k                          
+R9          RES_0603                      6.6930       1.8000       7.4930    1.8000    7.4930    1.8000    270      TopLayer    0R                           
+R8          RES_0603                      6.6930       6.9850       7.4930    6.9850    7.4930    6.9850    270      TopLayer    0R                           
 R7          RES_0603                      26.2000      8.8000       25.4000   8.8000    25.4000   8.8000    90       TopLayer    10k                          
 R6          RES_0603                      26.2000      10.4500      25.4000   10.4500   25.4000   10.4500   90       TopLayer    10k                          
 R5          RES_0603                      26.2000      13.6936      25.4000   13.6936   25.4000   13.6936   90       TopLayer    10k                          
 R4          RES_0603                      26.2000      15.4000      25.4000   15.4000   25.4000   15.4000   90       TopLayer    10k                          
 R2          RES_0603                      8.8000       -18.3000     8.8000    -19.1000  8.8000    -19.1000  180      TopLayer    0                            
-L1          SMT_inductor_1050_Performance 36.4490      40.8940      36.4490   40.8940   41.3990   40.8940   270      TopLayer    15mH                         
+L1          SMT_INDUCTOR_1050_PERFORMANCE 36.4490      40.8940      36.4490   40.8940   41.3990   40.8940   270      TopLayer    15mH                         
 D3          WL-SMCW_0603_H=0.7MM          65.5320      34.2900      65.5320   34.2900   65.5320   33.4900   90       TopLayer    "Super Red, 1.9V"            
 D2          WL-SMCW_0603_H=0.7MM          59.6900      34.2900      59.6900   34.2900   59.6900   33.4900   90       TopLayer    "Blue, 3.2V"                 
 D1          WL-SMCW_0603_H=0.7MM          53.8480      34.2900      53.8480   34.2900   53.8480   33.4900   90       TopLayer    "Bright Green, 2V"           
@@ -93,6 +96,9 @@ C12         RES_1206                      26.7970      32.0280      26.7970   30
 C11         RES_1206                      26.7970      36.8540      26.7970   38.3540   26.7970   38.3540   180      TopLayer    10µF                         
 C10         CAP_0603                      28.9560      36.2570      28.9560   36.9570   28.9560   36.9570   0        TopLayer    100nF                        
 C6          CAP_0603                      40.8080      33.0590      40.8080   33.7590   40.8080   33.7590   0        TopLayer    100nF                        
+C5C         CAP_0603                      83.2286      -36.1164     83.9286   -36.1164  83.9286   -36.1164  270      TopLayer    100nF                        
+C5B         CAP_0603                      83.2342      -14.6740     83.9342   -14.6740  83.9342   -14.6740  270      TopLayer    100nF                        
+C5A         CAP_0603                      83.2540      6.2050       83.9540   6.2050    83.9540   6.2050    270      TopLayer    100nF                        
 C4C         CAP_0603                      69.2276      -43.4232     68.5276   -43.4232  68.5276   -43.4232  90       TopLayer    100nF                        
 C4B         CAP_0603                      69.2332      -21.9808     68.5332   -21.9808  68.5332   -21.9808  90       TopLayer    100nF                        
 C4A         CAP_0603                      69.2530      -1.1018      68.5530   -1.1018   68.5530   -1.1018   90       TopLayer    100nF                        

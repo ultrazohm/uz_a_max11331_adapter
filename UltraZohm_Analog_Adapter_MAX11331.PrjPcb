@@ -263,24 +263,20 @@ DocumentPath=Project Outputs for UZ_A_MAX11331_Adapter\Design Rule Check - Ultra
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
+Name=Author
+Value=Thomas Kreppel
 
 [Parameter2]
-Name=ProjectRevision
-Value=Rev03
+Name=Date
+Value=10/2025
 
 [Parameter3]
 Name=ProjectName
 Value=UZ_A_MAX11331_Adapter
 
 [Parameter4]
-Name=Date
-Value=10/2025
-
-[Parameter5]
-Name=Author
-Value=Thomas Kreppel
+Name=ProjectRevision
+Value=Rev03
 
 [Configuration1]
 Name=Default Configuration
@@ -885,41 +881,11 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=MathWorks
-OutputName17=MathWorks (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=Web ReviewOutputName
-OutputName18=Web Review Data
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

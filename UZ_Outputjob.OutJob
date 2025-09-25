@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=UZ_Outputjob.OutJob
 Description=
-TargetOutputMedium=Gerber_and_Drill_Files
+TargetOutputMedium=BOM_JLC
 VariantName=SMD_Assembly
 VariantScope=1
 CurrentConfigurationName=
@@ -217,7 +217,7 @@ OutputName8=Gerber Files
 OutputCategory8=Fabrication
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -235,7 +235,7 @@ OutputName9=NC Drill Files
 OutputCategory9=Fabrication
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=0
 OutputEnabled9_OutputMedium3=0
@@ -509,7 +509,7 @@ OutputName13=BOM_JLC
 OutputCategory13=Report
 OutputDocumentPath13=
 OutputVariantName13=Standard
-OutputEnabled13=0
+OutputEnabled13=1
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=0
 OutputEnabled13_OutputMedium3=0
@@ -524,21 +524,21 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 Configuration13_Name1=ColumnNameFormat
 Configuration13_Item1=CaptionAsName
 Configuration13_Name2=General
-Configuration13_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Student\Desktop\Altium\altium_libraries\templates\BOM\BOM_Template_THN_JLCPCB.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1969|FormHeight=1153|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration13_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Student\Desktop\Altium\altium_libraries\templates\BOM\BOM_Template_THN_JLCPCB.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=2560|FormHeight=1394|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration13_Name3=GroupOrder
-Configuration13_Item3=Comment=True|MPN=True|Footprint=True|Manufacturer Part Number=True|LCSC Part Number=True
+Configuration13_Item3=Comment=True|MPN=True|Footprint=True|LCSC Part Number=True
 Configuration13_Name4=OutputConfigurationParameter1
 Configuration13_Item4=??
 Configuration13_Name5=SortOrder
 Configuration13_Item5=Designator=Up
 Configuration13_Name6=VisibleOrder
-Configuration13_Item6=Comment=116|Designator=107|Footprint=149|LCSC Part Number=100|Manufacturer Part Number=100
+Configuration13_Item6=Comment=116|Designator=107|Footprint=149|LCSC Part Number=100|Manufacturer Part Number=100|Description=100|MPN=100
 Configuration13_Name7=VisibleOrder_Base
 Configuration13_Item7=Line #=53|Comment=52|Description=79|Designator=77|Quantity=67|LCSC Part Number=115|Footprint=119|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=72|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration13_Name8=VisibleOrder_Consolidated
 Configuration13_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=143|Supplier 1=72|Supplier Part Number 1=139|Supplier Unit Price 1=123|Supplier Subtotal 1=116
 Configuration13_Name9=VisibleOrder_Flat
-Configuration13_Item9=Comment=116|Designator=107|Footprint=149|LCSC Part Number=100|Manufacturer Part Number=100
+Configuration13_Item9=Comment=116|Designator=107|Footprint=149|LCSC Part Number=100|Manufacturer Part Number=100|Description=100|MPN=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\
